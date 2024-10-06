@@ -1,5 +1,4 @@
-function addTwo(a,b){
-    return a+b
+function displayDate(){
+    document.getElementById('demo').innerHTML=Date();
 }
-console.log(addTwo(10,20));
 
