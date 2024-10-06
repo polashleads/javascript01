@@ -1,0 +1,17 @@
+/* "color: brown; 
+font-size: 20px; 
+text-align: center; 
+margin-top: 100px; */
+
+/* "background-color: rgb(67, 194, 194); */
+body{
+    background-color: rgb(70, 60, 60);
+}
+
+p{
+color: white; 
+font-size: 25px; 
+text-align: center; 
+margin-top: 100px;
+line-height: 100px;
+}
